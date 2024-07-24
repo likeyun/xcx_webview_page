@@ -3,7 +3,7 @@
 
 ### 如何使用？
 
-在你小程序的pages目录创建一个h5目录，h5目录里面创建index page，结果如下：
+在你小程序的 `pages` 目录创建一个 `h5` 目录，`h5` 目录鼠标右键点击 `新建 Page` 名为 `index`
 
 ![](https://p0.meituan.net/dpmerchantpic/31e37e136e4e87bf5a6426faa3630d5e13932.jpg%40200w_200h_1e_1l)
 
