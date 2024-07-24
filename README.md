@@ -65,6 +65,6 @@ Page({
 假设你的业务域名是 `www.baidu.com`，你上传了一张图片到你服务器的 `img` 目录，图片名是`wxqrcode.png`，那么你生成二维码的路径就是：
 
 ```
-pages/h5/index?utl=https://www.baidu.com/img/wxqrcode.png
+pages/h5/index?url=https://www.baidu.com/img/wxqrcode.png
 ```
 
